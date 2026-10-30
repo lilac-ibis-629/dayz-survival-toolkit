@@ -1,0 +1,22 @@
+{
+  "name": "dayz-survival-toolkit",
+  "displayName": "DayZ Survival Toolkit",
+  "programType": "survival-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Session settings",
+    "Inventory notes",
+    "Map references"
+  ],
+  "topics": [
+    "dayz-survival-toolkit",
+    "dayz-tools",
+    "dayz-menu",
+    "dayz-settings",
+    "dayz-configs",
+    "dayz-session-settings",
+    "dayz-inventory-notes"
+  ]
+}
